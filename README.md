@@ -1,7 +1,5 @@
-# php-composer-autoload
+# php-composer-autoload -try it
 
-To try it out
------------------
 1. git clone the project
 
 2. run composer dump-autoload
