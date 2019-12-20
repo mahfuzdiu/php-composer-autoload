@@ -9,3 +9,5 @@ To try it out
 3. run the index.php file
 
     -- Thats it
+    
+    Tips: This way you can build php libray
