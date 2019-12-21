@@ -1,6 +1,6 @@
 {
     "name": "mahfuz/autoload",
-    "description": "Checking out namespace and autoload facility on php",
+    "description": "Checking out namespace and autoload process on php",
     "type": "library",
     "license": "MIT",
     "require": {},
